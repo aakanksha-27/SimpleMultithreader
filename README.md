@@ -1,9 +1,11 @@
 # OS-Assignment-5
 
 ##Introduction
+
 SimpleMultithreader simply creates Pthreads whenever parallel_for APIs are invoked in the user program. It handles both single-threaded and double-threaded execution.
 
 ##Implementation
+
 1) TaskSingle and TaskDouble structs store the ranges and lambda functions for single and double-range tasks.
 
 2) run_task_single and run_task_double are thread functions that execute the lambda over their assigned ranges.
