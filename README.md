@@ -1,10 +1,12 @@
 # OS-Assignment-5
 
-##Introduction
+Introduction
+----------------
 
 SimpleMultithreader simply creates Pthreads whenever parallel_for APIs are invoked in the user program. It handles both single-threaded and double-threaded execution.
 
-##Implementation
+Implementation
+-------------
 
 1) TaskSingle and TaskDouble structs store the ranges and lambda functions for single and double-range tasks.
 
@@ -16,7 +18,8 @@ SimpleMultithreader simply creates Pthreads whenever parallel_for APIs are invok
 
 5) Robust error handling has been done for invalid threads or failed operations.
 
-##Contributions
+Contributions
+-------------
 
 Aakanksha(2023004) - Single thread execution
 Palak Yadav(2023363) - Double thread execution
