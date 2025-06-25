@@ -24,5 +24,3 @@ Contributions
 Aakanksha(2023004) - Single thread execution
 
 Palak Yadav(2023363) - Double thread execution
-
-Link to GitHub repository: https://github.com/aakanksha-27/OS-Assignment-5 
